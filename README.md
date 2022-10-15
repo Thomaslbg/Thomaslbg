@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">I started coding in july 2022 and joined Le Wagon bootcamp</h3>
+<h3 align="center">I started coding in july 2022 and did Le Wagon bootcamp</h3>
 
 - 🌱 I’m currently learning **Ruby on rails and JS**
 
