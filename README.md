@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A developper in professional retraining</h3>
+<h3 align="center">I started coding in july 2022 and joined Le Wagon bootcamp</h3>
 
-- 🌱 I’m currently learning **Ruby on rails and React**
+- 🌱 I’m currently learning **Ruby on rails and JS**
 
 - 📫 How to reach me **thomas.lebegue@gmail.com**
 
