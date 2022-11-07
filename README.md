@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I started coding in july 2022 and did Le Wagon bootcamp</h3>
 
-- 🧑‍💻 I’m currently looking for a **fullstack developper role**
+- 🧑‍💻 I’m currently looking for a **fullstack developer role**
 
 - 📫 How to reach me **thomas.lebegue@gmail.com**
 
@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/thomaslebegue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomaslebegue" height="30" width="40" /></a>
 </p>
 <h3 align="left">Codewars:</h3>
-<img src="https://www.codewars.com/users/Thomaslbg/badges/large" alt="codewars"/> 
+<a href="https://www.codewars.com/users/Thomaslbg" target="blank"><img src="https://www.codewars.com/users/Thomaslbg/badges/large" alt="codewars"/> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
