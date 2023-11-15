@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I started coding in july 2022 and did Le Wagon bootcamp</h3>
 
-- 🧑‍💻 I’m currently looking for a **fullstack developer role**
-
 - 📫 How to reach me **thomas.lebegue@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomaslebegue/](https://www.linkedin.com/in/thomaslebegue/)
